@@ -1,5 +1,6 @@
 ## tinyfetch
 A minimalistic fetch.
+
 ![image](https://raw.githubusercontent.com/RiverCodesIG/tinyfetch/main/assets/image.png)
 
 ---
