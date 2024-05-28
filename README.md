@@ -1,5 +1,5 @@
 # tinyfetch
-![image](https://raw.githubusercontent.com/RiverCodesIG/tinyfetch/main/image.png)
+![image](https://raw.githubusercontent.com/RiverCodesIG/tinyfetch/main/assets/image.png)
 
 ## Installation
 TODO: Add installation
