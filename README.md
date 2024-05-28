@@ -1,13 +1,8 @@
 # tinyfetch
-
-![image](https://github.com/nikitarevenco/tinyfetch/assets/154856872/7e079401-ab22-4ca1-aba7-d1cebf533dd4)
-
-A fetch for the minimalist. Fast and not bloated - just like Arch. 
+![image](https://raw.githubusercontent.com/RiverCodesIG/tinyfetch/main/image.png)
 
 ## Installation
+TODO: Add installation
 
-With your favourite AUR helper, which for me is `yay`:
-```bash
-yay -S tinyfetch
-```
-
+## Credits
+Thanks to [nikitarevenco](https://github.com/nikitarevenco), he made the [original](https://github.com/nikitarevenco/tinyfetch) Shell version.
